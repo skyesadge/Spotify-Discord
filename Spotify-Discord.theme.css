@@ -13,9 +13,9 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 
 :root {
-	--accent-color: #1db954;
-	--accent-hover: #1ed760;
-	--accent-rgb: 29,185,84;
+	--accent-color: #F4BFD4;
+	--accent-hover: #fac8dc;
+	--accent-rgb: 244,191,212;
 	--accent-text-color: #fff; /*	-	*/
 
 	--chat-color: #121212;
@@ -35,7 +35,7 @@
 	--popout-radius: 7px;
 	--popout-radius-small: 3px; /*	-	*/
 
-	--input-color: #e0e0e0;
+	--input-color: #808080;
 	--input-text-color: #333;
 	--input-placeholder-color: #444;
 }
